@@ -1,0 +1,14 @@
+Business Request 1: 
+City-Level Fare and Trip Summary Report
+
+Generate a report that displays the Total Trips, Average Fare Per KM, Average Fare per Trip, and
+the contribution of each city's trips to the overall trips. 
+
+This report will help in assessing trip volume, pricing efficiency, and each city's contribution to the overall trip count.
+
+Fields:
+1. city_name
+2. total_trips
+3. avg_fare_per_trip
+4. avg_fare_per_km
+5. %_contribution_to_total_trips
