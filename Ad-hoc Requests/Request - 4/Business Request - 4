@@ -1,0 +1,11 @@
+Business Request -4: 
+Identify Cities with Highest and Lowest Total New Passengers.
+
+Generate a report that calculates the total new passengers for each city and ranks them on this value. 
+Identify the top 3 Cities with the highest number of New Passengers as well as the bottom 3 cities with 
+the lowest number of New Passengers, categorising them as "Top 3" or "Bottom 3" accordingly.
+
+Fields:
+1. city_name
+2. total_new_passengers
+3. city_category ("Top 3" or "Bottom 3")
