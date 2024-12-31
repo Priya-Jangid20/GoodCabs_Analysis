@@ -1,5 +1,3 @@
--- Q1) City-Level Fare and Trip Summary Report
-      
 SELECT 
     dc.city_name,
     COUNT(ft.trip_id) AS total_trips,
