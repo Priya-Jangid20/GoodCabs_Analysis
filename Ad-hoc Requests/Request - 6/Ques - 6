@@ -1,0 +1,17 @@
+Business Request - 6: 
+Repeat Passenger Rate Analysis
+
+Generate a report that calculates two metrics:
+
+1. Monthly Repeat Passenger Rate: Calculate the Repeat Passenger Rate for each city and month by comparing the number of repeat passengers to the total passengers.
+2. City—wide Passenger Rate: Calculate the overall repeat passenger rate for each city, considering all passengers across months.
+
+These metrics will provide insights into monthly repeat trends as well as the overall repeat behaviour for each city.
+
+Fields:
+1. city_name
+2. month
+3. total_passengers
+4. repeat_passengers
+5. monthly repeat passenger rate(%): Repeat passenger rate at the city and month level
+6. city repeat passenger rate(%): Overall repeat passenger rate for each city, across months
