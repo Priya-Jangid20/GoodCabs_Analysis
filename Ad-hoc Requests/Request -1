@@ -1,0 +1,3 @@
+- Q1) City-Level Fare and Trip Summary Report
+      Generate a Report that displays Total Trips, Average Fare per KM, Average Fare per Trip, and 
+      the Percentage Contribution of each City's trips to the overall Trips. 
