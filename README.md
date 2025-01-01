@@ -27,7 +27,7 @@
 - **Data Visualization**: Power BI  
 - **Data Analysis**: SQL  
 - **Data Modeling**: Snowflake schema  
-- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service.
+- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Canva.
 
 ---
 
@@ -50,6 +50,14 @@
 
 ---
 
+## 🔗 Data Modeling:
+ * Used Snowflake Schema to connect tables.
+ * 
+<img align="centre" src="https://github.com/Priya-Jangid20/GoodCabs_Analysis/blob/main/Data%20Modeling.JPG?raw=true"
+height="600" width="1400">
+
+---
+
 ## 📈 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDI5NGYwZTAtMmFhOS00NGMwLThmMjItOWY5NWNhMDZmMjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) Overview
 
 The Power BI dashboard includes:
@@ -66,11 +74,29 @@ The Power BI dashboard includes:
 3. **Driver Utilization**: Cities with low trip counts may have underutilized drivers.
 
 ### Recommendations
-1. **Focus on High-Performing Cities**: Invest more in cities with higher trip volumes and revenue contributions.  
-2. **Standardize Pricing**: Implement consistent fare-per-km pricing across cities to balance revenue and customer satisfaction.  
-3. **Optimize Driver Allocation**: Use data-driven approaches to allocate drivers more efficiently in underperforming cities.  
-4. **Revise Marketing Strategies**: Target high-performing demographics and re-evaluate low-ROI campaigns.  
-5. **Track Progress**: Regularly update dashboards to monitor the impact of implemented strategies.
+1. **Expand in High-Performing Cities**: Increase fleet size in cities with high trip volumes to capitalize on demand.
+2. **Implement Dynamic Pricing**: Use data-driven strategies to adjust fares dynamically based on demand, time, and distance to maximize revenue and customer satisfaction.  
+3. **Refine Marketing Tactics**: Focus on customer retention strategies such as loyalty programs or discounts for repeat customers to increase long-term engagement.  
+4. **Enhance Driver Training**: Introduce training programs to improve driver efficiency and customer service quality, boosting overall passenger satisfaction.
 
 ---
+
+## 💡 How to Use the Dashboard
+
+1. **Access the [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDI5NGYwZTAtMmFhOS00NGMwLThmMjItOWY5NWNhMDZmMjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**.
+2. **Navigate** through the different views based on your area of interest or responsibility.
+3. **Use filters** to customize data views by City or Month.
+
+---
+
+## ✨ Conclusion
+
+* The **GoodCabs Data Analysis** Report provides strategic insights across all critical Business Areas. 
+* With a clear view into Trip Trends, Revenue Generated and Passenger Behaviour, stakeholders can make informed decisions that drive success.
+
+---
+
+### Connect with Me
+
+If you have feedback or would like to connect, visit my [LinkedIn Profile](https://www.linkedin.com/in/priya-jangid2018/).
 
