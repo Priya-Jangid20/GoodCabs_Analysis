@@ -1,4 +1,4 @@
-# GoodCabs_Data_Analysis
+# 🚖GoodCabs_Data_Analysis
 
 [🌐 Live Dashboard]()
 
@@ -15,14 +15,13 @@ Goodcabs Mission:
   
 ---
 
-## Project Objective
-
+## 🎯 Project Objective
 The objective of this project is to analyze Goodcabs' operational data and track their business performance.
 The analysis aims to provide actionable insights to help Goodcabs achieve its ambitious performance targets for 2024.
 
 ---
 
-## Tech Stacks
+## 👩‍💻 Tech Stacks
 
 - **Data Visualization**: Power BI  
 - **Data Analysis**: SQL  
@@ -31,7 +30,7 @@ The analysis aims to provide actionable insights to help Goodcabs achieve its am
 
 ---
 
-## Concepts Learned: Power BI
+## 💡 Concepts Learned: Power BI
 
 1. **Data Cleaning and Transformation**: Using Power Query to prepare and clean raw data.  
 2. **Data Modeling**: Implementing a Snowflake schema to connect data tables for efficient querying.  
@@ -41,7 +40,7 @@ The analysis aims to provide actionable insights to help Goodcabs achieve its am
 
 ---
 
-## Concepts Learned: SQL
+## 💡 Concepts Learned: SQL
 
 1. **Data Aggregation**: Using functions like `SUM`, `AVG`, and `COUNT` to summarize data.  
 2. **Window Functions**: Leveraging functions like `DENSE_RANK` and `RANK` for advanced calculations.  
@@ -50,7 +49,7 @@ The analysis aims to provide actionable insights to help Goodcabs achieve its am
 
 ---
 
-## Dashboard Overview
+## 📈 Dashboard Overview
 
 The Power BI dashboard includes:
 1. **Overview**: Provides all important information at one glance, has Key Metrics such as Total Revenue, Total Trips, Total New Passengers, etc.
@@ -58,7 +57,7 @@ The Power BI dashboard includes:
 
 ---
 
-## Insights and Recommendations
+## 🔍 Insights and Recommendations
 
 ### Insights
 1. **City-Wise Trip Distribution**: Certain cities significantly outperform others in terms of trip counts and revenue contribution.
