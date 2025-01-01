@@ -54,7 +54,7 @@
  * Used Snowflake Schema to connect tables.
  * 
 <img align="centre" src="https://github.com/Priya-Jangid20/GoodCabs_Analysis/blob/main/Data%20Modeling.JPG?raw=true"
-height="600" width="1400">
+height="450" width="1000">
 
 ---
 
