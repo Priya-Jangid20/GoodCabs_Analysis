@@ -6,18 +6,19 @@
 
 ## 📊 Company Overview
 
-Goodcabs is a cab service company operating in ten tier-2 cities across India.
-It was established in 2022.
+* Goodcabs is a cab service company operating in ten tier-2 cities across India.
+* It was established in 2022.
 
-Goodcabs Mission:
-* Support Local Drivers by providing them a living in their hometown.
-* Provide excellent services to the Passengers.
+* Goodcabs Mission:
+     1. Support Local Drivers by providing them a living in their hometown.
+     2. Provide excellent services to the Passengers.
   
 ---
 
 ## 🎯 Project Objective
-The objective of this project is to analyze Goodcabs' operational data and track their business performance.
-The analysis aims to provide actionable insights to help Goodcabs achieve its ambitious performance targets for 2024.
+
+* The objective of this project is to analyze Goodcabs' operational data and track their business performance.
+* The analysis aims to provide actionable insights to help Goodcabs achieve its ambitious performance targets for 2024.
 
 ---
 
