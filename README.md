@@ -1,6 +1,6 @@
 # 🚖GoodCabs_Data_Analysis
 
-[🌐 Live Dashboard]()
+[🌐 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDI5NGYwZTAtMmFhOS00NGMwLThmMjItOWY5NWNhMDZmMjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 📈 Dashboard Overview
+## 📈 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDI5NGYwZTAtMmFhOS00NGMwLThmMjItOWY5NWNhMDZmMjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) Overview
 
 The Power BI dashboard includes:
 1. **Overview**: Provides all important information at one glance, has Key Metrics such as Total Revenue, Total Trips, Total New Passengers, etc.
